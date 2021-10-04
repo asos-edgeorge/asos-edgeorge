@@ -6,7 +6,7 @@ My name is Ed, a **Senior Android Engineer** on the Web and Apps Team.
 
 ### About Me 😅
 
-I joined ASOS in May 2021 having moved from a digital-agency and currently reside in [Shropshire](https://en.wikipedia.org/wiki/Telford), UK.
+I joined ASOS in May 2021 having moved from a [digital agency](https://himumsaiddad.com) and currently reside in [Nottinghamshire](https://en.wikipedia.org/wiki/Beeston,_Nottinghamshire), UK.
 
 I am part of Android's 'Seal Team' 🦭 and the Android Security Champion 🔐
 
