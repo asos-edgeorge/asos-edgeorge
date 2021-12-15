@@ -25,6 +25,7 @@ Also, feel free to ask me about any of the following projects within the Android
 
 *   Paypal Pay In 4
 *   WISMO on Homepage
+*   Colour Swatches
 
 ---
 
