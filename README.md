@@ -32,6 +32,7 @@ Also, feel free to ask me about any of the following projects within the Android
 ### Talks 🗣
 
 *   [Android Worldwide July 2021 - Sorting and Reporting Your Dependencies with Gradle](https://www.youtube.com/watch?v=4PCCiEThhbE)
+*   [Droidcon London October 2021 - Config-driven A/B Experiments that don't require an app release](https://www.droidcon.com/2021/11/17/implementing-config-driven-experiments-that-dont-require-a-release)
 
 ---
 
