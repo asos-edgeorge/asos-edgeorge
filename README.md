@@ -18,8 +18,8 @@ You can find my open source alter-ego, [ed-george](https://github.com/ed-george)
 
 You can find me working on the following ASOS projects:
 
-*   [Android ASOS App](https://github.com/asosteam/asos-native-android)
-*   [WALT (Web & Apps Localization Tool)](https://github.com/asosteam/asos-cx-localization)
+*   Android ASOS App
+*   WALT (Web & Apps Localization Tool)
 
 Also, feel free to ask me about any of the following projects within the Android app that I have been a part of:
 
