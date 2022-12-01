@@ -6,11 +6,10 @@ My name is Ed, a **Senior Android Engineer** on the Web and Apps Team.
 
 ### About Me 😅
 
-I joined ASOS in May 2021 having moved from a [digital agency](https://himumsaiddad.com) and currently reside in [Nottinghamshire](https://en.wikipedia.org/wiki/Beeston,_Nottinghamshire), UK.
-
-I am part of Android's 'Seal Team' 🦭 and the Android Security Champion 🔐
-
-You can find my open source alter-ego, [ed-george](https://github.com/ed-george) on Github
+*   I joined ASOS in May 2021 having moved from a [digital agency](https://himumsaiddad.com) and currently reside in [Nottinghamshire](https://en.wikipedia.org/wiki/Beeston,_Nottinghamshire), UK.
+*   I am part of Android's 'Seal Team' 🦭 and the Android Security Champion 🔐
+*   I am also a [Google Developer Expert](https://developers.google.com/community/experts) in Android, having been nominated and accepted in November 2022
+*   You can find my open-source alter-ego, [ed-george](https://github.com/ed-george) on Github
 
 ---
 
@@ -26,6 +25,7 @@ Also, feel free to ask me about any of the following projects within the Android
 *   Paypal Pay In 4
 *   WISMO on Homepage
 *   Colour Swatches
+*   and many many more...
 
 ---
 
@@ -33,6 +33,7 @@ Also, feel free to ask me about any of the following projects within the Android
 
 *   [Android Worldwide July 2021 - Sorting and Reporting Your Dependencies with Gradle](https://www.youtube.com/watch?v=4PCCiEThhbE)
 *   [Droidcon London October 2021 - Config-driven A/B Experiments that don't require an app release](https://www.droidcon.com/2021/11/17/implementing-config-driven-experiments-that-dont-require-a-release)
+*   See [my website](https://spght.dev/talks) for a full list
 
 ---
 
