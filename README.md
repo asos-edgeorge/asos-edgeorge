@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Ed, a **Senior Android Engineer** on the Web and Apps Team.
+My name is Ed, an **Acting Lead Android Engineer** on the Web and Apps Team.
 
 ---
 
@@ -31,9 +31,11 @@ Also, feel free to ask me about any of the following projects within the Android
 
 ### Talks 🗣
 
+See [my website](https://spght.dev/talks) for a full list
+
+*   [Droidcon London October 2022 - How to become your app's security champion](https://www.droidcon.com/2022/11/15/how-to-become-your-apps-security-champion) 
 *   [Android Worldwide July 2021 - Sorting and Reporting Your Dependencies with Gradle](https://www.youtube.com/watch?v=4PCCiEThhbE)
 *   [Droidcon London October 2021 - Config-driven A/B Experiments that don't require an app release](https://www.droidcon.com/2021/11/17/implementing-config-driven-experiments-that-dont-require-a-release)
-*   See [my website](https://spght.dev/talks) for a full list
 
 ---
 
@@ -44,5 +46,6 @@ You can read more about me and my work on [my website](https://ed-george.github.
 Please check me out on social:
 
 *   Twitter - [@sp4ghetticode](http://twitter.com/sp4ghetticode)
+*   Mastadon - [@spaghetticode@androiddev.social](https://androiddev.social/@spaghetticode) 
 *   LinkedIn - [edgeorge](http://linkedin.com/in/edgeorge)
 *   Medium - [@spaghetticode](https://medium.com/@spaghetticode)
