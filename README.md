@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Ed, an **Acting Lead Android Engineer** on the Web and Apps Team.
+My name is Ed, a **Lead Android Engineer** on the Web and Apps Team.
 
 ---
 
