@@ -1,6 +1,8 @@
 ## Hi 👋
 
-My name is Ed, a **Lead Android Engineer** on the Web and Apps Team.
+I am Ed, a **Lead Android Engineer** on the Native Apps Android 'Seal' team at [ASOS](https://asos.com).
+
+You _might_ know me as `@sp4ghetticode` on [various social media](https://linktr.ee/sp4ghetticode)
 
 ---
 
